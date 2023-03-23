@@ -27,3 +27,9 @@ kode programnya.
 6. Drawer
 Drawer menampilkan akses ke berbagai tujuan Ketika di klik. Drawer terdapat 
 pada bagian pojok AppBar yaitu tiga garis paralel horizontal.
+
+**Berikut adalah hasil dari tampilan aplikasi**
+![WhatsApp Image 2023-03-23 at 22 15 43](https://user-images.githubusercontent.com/114218228/227249714-411d87b6-5fd4-4406-bb83-e12ee7102104.jpeg)
+![WhatsApp Image 2023-03-23 at 22 16 03](https://user-images.githubusercontent.com/114218228/227249725-da83f4a6-a0cb-47d5-8174-535ddc0f877a.jpeg)
+![WhatsApp Image 2023-03-23 at 22 16 26](https://user-images.githubusercontent.com/114218228/227249735-f4340a6a-3ca8-420b-adef-52f19eb6d7a4.jpeg)
+![WhatsApp Image 2023-03-23 at 22 15 18](https://user-images.githubusercontent.com/114218228/227249740-533e2028-f27b-4d95-93d5-dd2753b0ee03.jpeg)
